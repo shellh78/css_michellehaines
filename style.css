@@ -1,0 +1,25 @@
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+    position:absolute;
+    top: 20px;
+    right: 30px;
+    left: 40px;
+    bottom: 75px;
+    border: 5px solid black;
+ }
+.box2 {
+    width: 500px;
+    height: 500px;
+    background-color:darkmagenta;
+    position: relative;
+    left: 350px;
+    border: 5px solid black;
+}
+h1{
+   text-align: center;
+   color:darkmagenta;
+   font-family: "Rubik Doodle Shadow";
+   background-color: black;
+}
